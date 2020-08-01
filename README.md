@@ -1,2 +1,3 @@
 # project
-ebcms project
+
+ebcms project template

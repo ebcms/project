@@ -1,0 +1,15 @@
+{
+    "name": "ebcms/project",
+    "description": "ebcms project template",
+    "authors": [
+        {
+            "name": "ebcms",
+            "email": "1540837821@qq.com"
+        }
+    ],
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "ebcms/framework": "1.*"
+    }
+}
